@@ -1,2 +1,4 @@
 Hello, Word! (version 2)
 
+Some lines are added
+
